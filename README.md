@@ -1,4 +1,4 @@
-[![MasterHead](https://pixabay.com/illustrations/online-web-statistics-data-3539412/)]
+[![MasterHead]([https://pixabay.com/illustrations/online-web-statistics-data-3539412/](https://as1.ftcdn.net/v2/jpg/06/77/90/48/1000_F_677904811_RWSQvunRqAuvK06c1EuoJ2MJVrUVPIZC.jpg))]
 <h1 align="center">Hi 👋, I'm Shivendra Tiwari</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
