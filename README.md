@@ -1,4 +1,4 @@
-![logo](https://github.com/Shivendra0111/Shivendra0111/blob/main/github_background.png?raw=true)
+![logo](https://github.com/Shivendra0111/Shivendra0111/blob/main/Background_3.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Shivendra Tiwari</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
