@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Sales Predicton Project**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **AI-ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shivendra0111](https://github.com/Shivendra0111)
 
