@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivendra0111&label=Profile%20views&color=0e75b6&style=flat" alt="shivendra0111" /> </p>
 
-- 🔭 I’m currently working on **Sales Predicton Project**
+- 🔭 I’m currently working on **ServiceNow ITSM end to end Operations Project**
 
-- 🌱 I’m currently learning **AI-ML**
+- 🌱 I’m currently applying **ITIL Best Practices **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shivendra0111](https://github.com/Shivendra0111)
 
