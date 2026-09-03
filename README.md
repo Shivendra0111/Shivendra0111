@@ -1,6 +1,6 @@
 ![logo](https://github.com/Shivendra0111/Shivendra0111/blob/main/Background_3.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Shivendra Tiwari</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">IT Service & Business Analyst | ServiceNow • Power BI • SQL | SLA Governance | Process Automation | Continuous Improvement</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivendra0111&label=Profile%20views&color=0e75b6&style=flat" alt="shivendra0111" /> </p>
